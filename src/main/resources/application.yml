@@ -1,3 +1,6 @@
 spring:
   application:
     name: Schedule
+  jpa:
+    hibernate:
+      ddl-auto: none
